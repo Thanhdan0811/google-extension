@@ -1,0 +1,3 @@
+- tham khảo tại đây : https://www.freecodecamp.org/news/building-chrome-extension/
+- Xem thêm cấu hình manifest.json : https://developer.chrome.com/docs/extensions/reference/manifest
+- public extension : https://developer.chrome.com/docs/webstore/register/
